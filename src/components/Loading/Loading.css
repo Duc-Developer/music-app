@@ -1,0 +1,23 @@
+.Loading {
+    display: flex;
+}
+
+.default-arrow-icon {
+    color: #aaaaaa;
+    margin: 5px;
+}
+
+.arrow-icon-is-active-red {
+    color: red;
+    transform: scale(1.5);
+}
+
+.arrow-icon-is-active-yellow {
+    color: yellow;
+    transform: scale(1.5);
+}
+
+.arrow-icon-is-active-blue {
+    color: blue;
+    transform: scale(1.5);
+}

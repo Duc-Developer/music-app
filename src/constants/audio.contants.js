@@ -1,0 +1,7 @@
+const audio = {
+    ADD_WISH_LIST: "ADD_WISH_LIST",
+    ADD_WISH_LIST_SUCCESS: "ADD_WISH_LIST_SUCCESS",
+    ADD_WISH_LIST_FAIL: "ADD_WISH_LIST_FAIL",
+}
+
+export default audio
